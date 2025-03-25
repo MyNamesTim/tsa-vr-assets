@@ -1,17 +1,17 @@
-<h1>**NOTES**</h1>
+#***NOTES***
 
-<h2>**Seashells**</h2>
+##**Seashells**
 
-<h3>*Colors*</h3>
+###*Colors*
 
-<h4>**Red**</h4>
+####**Red**
 
-<h5>Corresponds to the crab.</h5>
+#####Corresponds to the crab.
 
-<h4>*Purple*</h4>
+####**Purple**
 
-<h5>Corresponds to the sea horse.</h5>
+#####Corresponds to the sea horse.
 
-<h4>*Yellow*</h4>
+####**Yellow**
 
-<h5>Corresponds to the starfish.</h5>
+#####Corresponds to the starfish.
