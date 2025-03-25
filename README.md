@@ -1,17 +1,17 @@
-#***NOTES***
+# ***NOTES***
 
-##**Seashells**
+## **Seashells**
 
-###*Colors*
+### *Colors*
 
-####**Red**
+#### **Red**
 
-#####Corresponds to the crab.
+##### Corresponds to the crab.
 
-####**Purple**
+#### **Purple**
 
-#####Corresponds to the sea horse.
+##### Corresponds to the sea horse.
 
-####**Yellow**
+#### **Yellow**
 
-#####Corresponds to the starfish.
+##### Corresponds to the starfish.
